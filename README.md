@@ -29,7 +29,9 @@ https://colab.research.google.com/drive/1vTBPWNpbGWYX5OYWZpZ6b9ZusXKm4mC7?usp=sh
 <img width="173" alt="image" src="https://user-images.githubusercontent.com/77625525/229546548-ff1e3a79-79ae-4bb3-8c23-2bb540c85236.png">
 
 ## Эпигенетические типы: <br />
-http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr10%3A73207%2D150265&hgsid=1600526089_QuxA8UNNzlrCMjhYilLBptwdtxh8
+
+http://genome.ucsc.edu/cgi-bin/hgTracksdb=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr10%3A73207%2D150265&hgsid=1600526089_QuxA8UNNzlrCMjhYilLBptwdtxh8
+
 <img width="497" alt="image" src="https://user-images.githubusercontent.com/77625525/229546944-96c8c6e7-e217-4fef-b88e-d506e6314b10.png">
 
 ## Бонус: <br />
